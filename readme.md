@@ -35,7 +35,7 @@ php -S localhost:8080 & python checker.py
 running<br><br><br>
 
 ×× abra outra janela shell ××<br>
-lt --port 8080 --subdomain meuserver<br>
+lt --port 8080 --subdomain meuserver
 <br><br>
 ×× deve retornar algo assim ××<br>
 https://meuserver.loca.lt<br><br><br>
