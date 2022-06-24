@@ -30,7 +30,7 @@ pip install yt-dlp<br><br><br>
 ×× abra uma janela shell ××
 cd ~/SampYT<br>
 php -S localhost:8080 & python checker.py
-<br>
+<br><br>
 ×× deve retornar algo assim ××<br>
 running<br><br><br>
 
