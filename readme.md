@@ -9,7 +9,7 @@ apt install git -y<br><br><br>
 
 // baixar o sistema:<br>
 cd ~/<br>
-git clone {url}<br>
+git clone https://github.com/Device-Black/SampYT.git<br>
 mv SampYT/openurl.js ~/../usr/lib/node_modules/localtunnel/node_modules/openurl<br><br><br>
 
 
