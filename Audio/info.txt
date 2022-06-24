@@ -1,0 +1,2 @@
+# aqui ficarão os audios temporarios extraido dos videos
+# sao removidos automaticamente apos passar o seu tempo de execução 
