@@ -1,48 +1,48 @@
-// terminal tools:
-apt install ffmpeg -y
-apt install python -y
-apt install nodejs -y
-apt install php -y
-apt install git -y
+// terminal tools:<br>
+apt install ffmpeg -y<br>
+apt install python -y<br>
+apt install nodejs -y<br>
+apt install php -y<br>
+apt install git -y<br><br><br>
 
 
 
-// baixar o sistema:
-cd ~/
-git clone {url}
-mv SampYT/openurl.js ~/../usr/lib/node_modules/localtunnel/node_modules/openurl
+// baixar o sistema:<br>
+cd ~/<br>
+git clone {url}<br>
+mv SampYT/openurl.js ~/../usr/lib/node_modules/localtunnel/node_modules/openurl<br><br><br>
 
 
 
-// nodejs tools:
-npm install -g localtunnel
+// nodejs tools:<br>
+npm install -g localtunnel<br><br><br>
 
 
 
-// python tools:
-pip install --upgrade pip
-pip install youtube-search-python
-pip install yt-dlp
+// python tools:<br>
+pip install --upgrade pip<br>
+pip install youtube-search-python<br>
+pip install yt-dlp<br><br><br>
 
 
 
-// Ligando o sistema:
-×× abra uma janela shell ××
-cd ~/SampYT
+// Ligando o sistema:<br>
+Ã—Ã— abra uma janela shell Ã—Ã—
+cd ~/SampYT<br>
 php -S localhost:8080 & python checker.py
+<br>
+Ã—Ã— deve retornar algo assim Ã—Ã—<br>
+running<br><br><br>
 
-×× deve retornar algo assim ××
-running
-
-×× abra outra janela shell ××
-lt --port 8080 --subdomain meuserver
-
-×× deve retornar algo assim ××
-https://meuserver.loca.lt
+Ã—Ã— abra outra janela shell Ã—Ã—<br>
+lt --port 8080 --subdomain meuserver<br>
+<br><br>
+Ã—Ã— deve retornar algo assim Ã—Ã—<br>
+https://meuserver.loca.lt<br><br><br>
 
 
 
-Para testar acesse dessa forma:
-https://meuserver.loca.lt/index.php?name=Outro%20Mundo
+Para testar acesse dessa forma:<br>
+https://meuserver.loca.lt/index.php?name=Outro%20Mundo<br><br>
 
-Obs: %20 representa o espaço entre as palavras
+Obs: %20 representa o espaÃ§o entre as palavras
